@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "baseUrl": "./src",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "allowUnreachableCode": true,
+    "allowJs": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true
+  },
+  "include": ["src"]
+}
