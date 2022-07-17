@@ -10,7 +10,7 @@ const App = () => {
     //========================= MENGHAPUS CONSOLE.LOG=====================================
     const flame = String.fromCodePoint(0x1f525)
     console.log(
-        `%c ${flame}AGUNG MAYUDHA MAJID${flame}`,
+        `%c ${flame}AGUNG KURNIAWAN FAISOL${flame}`,
         'color: darkseagreen; text-shadow: 2px 2px purple; background: red;font-size: 3em; border: 1px solid purple; padding: 20px;font-family: fantasy;',
     )
     // console.log = function () {}
